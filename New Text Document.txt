@@ -1,3 +1,4 @@
+NEW_FEATURE_2
 +2
 +1
 1
