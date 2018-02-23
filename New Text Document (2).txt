@@ -8,3 +8,5 @@ NEW_FEATURE_1
 
 Improvement NEW_FEATURE_2
 NEW_FEATURE_2
+
+v1.1
